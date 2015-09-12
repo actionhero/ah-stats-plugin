@@ -1,5 +1,5 @@
-# ah-state-plugin
-(These methods were removed from the actionHero core for v12, on September 12th, 2015)
+# ah-stats-plugin
+*These methods were removed from the actionHero core for v12, on September 12th, 2015*
 
 This plugin creates methods for you to store arbitrary statistics about your server.  These stats are stored in Redis, and are shared throughout the cluster.
 
