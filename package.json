@@ -1,0 +1,27 @@
+{
+  "author": "Evan Tahler <evantahler@gmail.com>",
+  "name": "ah-state-plugin",
+  "description": "I collect, store, and fetch stats about your actionhero cluster",
+  "version": "0.0.1",
+  "homepage": "http://actionherojs.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evantahler/ah-stats-plugin.git"
+  },
+  "keywords": [
+    "actionhero",
+    "ah",
+    "actionherojs",
+    "stats",
+    "statistics",
+    "redis"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.3.2"
+  },
+  "optionalDependencies": {}
+}
