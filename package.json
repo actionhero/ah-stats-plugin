@@ -1,6 +1,6 @@
 {
   "author": "Evan Tahler <evantahler@gmail.com>",
-  "name": "ah-state-plugin",
+  "name": "ah-stats-plugin",
   "description": "I collect, store, and fetch stats about your actionhero cluster",
   "version": "0.0.1",
   "homepage": "http://actionherojs.com",
@@ -12,6 +12,7 @@
     "actionhero",
     "ah",
     "actionherojs",
+    "statistics",
     "stats",
     "statistics",
     "redis"
