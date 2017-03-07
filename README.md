@@ -1,4 +1,6 @@
 # ah-stats-plugin
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/actionhero/ah-stats-plugin.svg)](https://greenkeeper.io/)
 *These methods were removed from the actionHero core for v12, on September 12th, 2015*
 
 This plugin creates methods for you to store arbitrary statistics about your server.  These stats are stored in Redis, and are shared throughout the cluster.
